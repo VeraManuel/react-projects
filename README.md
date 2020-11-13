@@ -1,6 +1,6 @@
 # react-projects
 
-All those projects are from John Smilga React course, I did those following his project structure from scratch
+All those projects are based from John Smilga React course.
  
 # projects-deploy
 
