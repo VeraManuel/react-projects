@@ -1,5 +1,5 @@
 # react-projects
- 
+
 # projects-deploy
 
 1-birthday-reminder
@@ -19,3 +19,6 @@ https://react-5menu.netlify.app/
 
 6-tab
 https://react-6cvtab.netlify.app/
+
+7-Slider Reviews
+https://react7-slider-reviews.netlify.app/
