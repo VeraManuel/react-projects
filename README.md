@@ -1,4 +1,6 @@
 # react-projects
+
+All those projects are from John Smilga React course, I did those following his project structure from scratch
  
 # projects-deploy
 
