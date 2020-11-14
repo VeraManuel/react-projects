@@ -22,3 +22,6 @@ https://react-6cvtab.netlify.app/
 
 7-Slider Reviews
 https://react7-slider-reviews.netlify.app/
+
+8-Lorem Ipsum Generator
+https://react-8loremgenerator.netlify.app/
