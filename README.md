@@ -25,3 +25,6 @@ https://react7-slider-reviews.netlify.app/
 
 8-Lorem Ipsum Generator
 https://react-8loremgenerator.netlify.app/
+
+9-Color Generator
+https://react-9colorgenerator.netlify.app/
