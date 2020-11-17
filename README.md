@@ -1,10 +1,7 @@
 # react-projects
 
-# <<<<<<< HEAD
 
 All those projects are based from John Smilga React course.
-
-> > > > > > > 2e516bde8409226e7034efea0c88e8e4fa27a2e4
 
 # projects-deploy
 
