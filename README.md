@@ -1,6 +1,5 @@
 # react-projects
 
-
 All those projects are based from John Smilga React course.
 
 # projects-deploy
@@ -31,3 +30,6 @@ https://react-8loremgenerator.netlify.app/
 
 9-Color Generator
 https://react-9colorgenerator.netlify.app/
+
+10-Grocery List
+https://react-10grocerylist.netlify.app/
