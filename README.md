@@ -40,5 +40,8 @@ https://react-11navbar.netlify.app/
 12-sidebar-modal
 https://react-12sidebar-modal.netlify.app/
 
-12-stripe-submenus
+13-stripe-submenus
 https://react-12stripe-submenus.netlify.app/
+
+14-useReducer-cart
+https://react-14usereducer-cart.netlify.app/
