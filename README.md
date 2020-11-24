@@ -45,3 +45,6 @@ https://react-12stripe-submenus.netlify.app/
 
 14-useReducer-cart
 https://react-14usereducer-cart.netlify.app/
+
+15-Cocktail
+https://react-15cocktail.netlify.app/
